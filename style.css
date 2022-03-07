@@ -62,11 +62,16 @@ footer {
   }
   main {
     height: 100%;
-    margin: 50px;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
     display: block;
   }
   .step-box {
-    height: 90%;
+    height: 100%;
+    width: 90%;
     margin: 20px;
     position: relative;
     background-color: #eeeeee;
